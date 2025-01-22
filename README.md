@@ -1,6 +1,12 @@
+<h1>Projeto de TCC - Bootcamp Heineken DIO</h1>
+
 <p>Este projeto foi desenvolvido como parte do TCC do bootcamp da Heineken promovido pela Digital Innovation One (DIO). O tema principal foi a análise e visualização de dados utilizando ferramentas de banco de dados e Excel, com a restrição de não utilizar determinadas tecnologias e ferramentas para o tratamento e análise.</p>
 
 <h2>Descrição do Projeto</h2>
+
+Link do Colab tratamento de tabela: https://colab.research.google.com/drive/1fQEVZUnbhDQ7dS7uJVggxOJJNtCOy0_P?usp=sharing
+
+link da tabela: https://lookerstudio.google.com/reporting/10bbec78-da83-4af2-af8f-3a6da75b4ec3
 
 <p>Diante da proposta de tratar uma tabela de dados e criar gráficos para visualização, foi necessário trabalhar com algumas limitações impostas. Não foi permitido:</p>
 <ul>
